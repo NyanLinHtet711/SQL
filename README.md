@@ -8,9 +8,12 @@ Welcome to my SQL practice repository! This project serves as a centralized hub 
 
 * **Concepts Demonstrated:** 
   * Data Aggregation (`GROUP BY`, `HAVING`)
-  * Multi-table Joins (`INNER`, `LEFT`, `RIGHT`)
-  * Subqueries & Common Table Expressions (CTEs)
-  * Window Functions (`ROW_NUMBER()`, `RANK()`, `LEAD/LAG`)
+  * Joins
+  * Union
+  * Data Type 
+  * Aliasing
+  * GETDate
+  * Primary key , Foreign Key
 
 ---
 
