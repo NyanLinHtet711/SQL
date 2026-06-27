@@ -1,3 +1,4 @@
+USE Parks_and_Recreation;
 -- GROUP BY ,  AVG ,ORDER BY
 
 SELECT 
